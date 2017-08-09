@@ -1,4 +1,4 @@
-(ns fpftoop.chapter-01)
+(ns fpftoop.chapter-03)
 
 (def point {:x 1, :y 2, :__class_symbol__ 'Point})
 

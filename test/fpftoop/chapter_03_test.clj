@@ -1,6 +1,6 @@
-(ns fpftoop.chapter-01-test
+(ns fpftoop.chapter-03-test
     (:require [clojure.test :refer :all]
-              [fpftoop.chapter-01 :refer :all]))
+              [fpftoop.chapter-03 :refer :all]))
 
 ; Exercise 1
 
