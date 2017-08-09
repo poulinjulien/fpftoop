@@ -1,4 +1,4 @@
-(ns fpftoop.chapter-00)
+(ns fpftoop.chapter-01)
 
 ; Exercise 1 [19]
 ; clojure.core already contains a 'second' function , so I used 'second2' as the name

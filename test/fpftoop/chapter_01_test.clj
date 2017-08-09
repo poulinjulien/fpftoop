@@ -1,6 +1,6 @@
-(ns fpftoop.chapter-00-test
+(ns fpftoop.chapter-01-test
     (:require [clojure.test :refer :all]
-              [fpftoop.chapter-00 :refer :all]))
+              [fpftoop.chapter-01 :refer :all]))
 
 (deftest second-test
     (testing "Second returns the 2nd element of a list."
